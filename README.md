@@ -1,8 +1,8 @@
-# Hands-on Lab: Creating My First Jupyter Notebook
+Hands-on Lab: Creating My First Jupyter Notebook
 
 In this notebook, I have used **Markdown cells** and **code cells**.
 
-# Skills Practiced
+Skills Practiced
 - Using multiple heading sizes
 - Creating ordered and unordered lists
 - Solving simple arithmetic equations
